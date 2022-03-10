@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <table border="2" width="70%" color="black">
+            <tr>
+                <td colspan="2"> <center> Numero vol: TN9867 </center> </td>
+                <td colspan="2"> <center> Appariel : Boeing 737 </center> </td>
+            </tr>
+
+
+            <tr>
+                <td colspan="2" rowspan="2">Aeroport</td>
+                <td>Depart : </td> 
+                <td> Monastir </td>
+            </tr>
+            
+            <tr>
+                <td>Arrive : </td>
+                <td> Paris-Orly </td>
+            </tr>
+
+            <tr>
+                <td colspan="2" rowspan="2">Heures</td>
+                <td>Depart : </td>
+                <td>13H:45</td>
+            </tr>
+
+            <tr>
+                <td>Arrive : </td>
+                <td> 13H:45</td>
+            </tr>
+            
+            <tr>
+                <td colsspan="4">La tunisie : </b><img src="./images/tn.png" width="110px" height="120px">Cliquer sur le drapeau pour plus d'information<b>La france : </b><img src="./images/fr.png" width="50px" height="50px"></center></td>
+            </tr>
+            
+        </table>
+    
+    </body>
+</html>
